@@ -2,4 +2,5 @@
 
 This repository provides the pieces of software, required inputs and instructions to reproduce the results presented in the paper.   
 
-* Item Guidelines_Reproduction_Results file contains the instructions requered to reproduce the results.
+* Guidelines_Reproduction_Results file contains the instructions requered to reproduce the results.
+![GitHub Logo](/images/logo.png)
