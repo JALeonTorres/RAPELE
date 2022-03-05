@@ -1,4 +1,4 @@
-# Risk Assessment by the Propagation of Earthquake Losses through the Economy (REPELE)
+# Risk Assessment by the Propagation of Earthquake Losses through the Economy (RAPELE)
 
 This repository provides the pieces of software, required inputs/data and instructions to reproduce the results presented in the paper.   
 
